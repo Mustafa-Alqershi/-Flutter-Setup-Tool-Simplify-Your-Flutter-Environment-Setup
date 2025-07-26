@@ -78,7 +78,7 @@ Using **Flutter Setup Tool** is straightforward and requires minimal input. Here
 ## 🤝 Contributions and Support
 
 Flutter Setup Tool is open source and welcomes contributions!  
-Report issues, request features, or contribute code via the [GitHub repository](https://github.com/Mustafa-Alqershi/flutter-setup-tool) *(replace with your actual repo URL if different)*.
+Report issues, request features, or contribute code via the [GitHub repository](https://github.com/Mustafa-Alqershi/flutter-setup-tool).
 
 ---
 
