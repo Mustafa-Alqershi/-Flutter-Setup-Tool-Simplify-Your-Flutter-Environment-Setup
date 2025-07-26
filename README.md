@@ -10,6 +10,8 @@
 **Flutter Setup Tool** is a free, all-in-one utility designed to automate and simplify the setup of your Flutter development environment.  
 With **just one click**, it installs and configures everything you need to start building Flutter applications on **Windows, macOS, and Linux** — saving you hours of manual setup.
 
+Whether you're a **beginner** just starting out or a **professional developer**, this tool helps you **save time and effort** by automating repetitive setup tasks, so you can focus on what matters most: writing great code.
+
 ---
 
 ## 📦 Installation Components
@@ -53,6 +55,7 @@ All components are downloaded directly from **official sources** to ensure you g
 - **One-click installation:** Automate your entire Flutter environment setup with a single click.  
 - **Free and open-source:** No cost to use, with source code available for contributions.  
 - **Cross-platform support:** Works on Windows, macOS, and Linux.  
+- **Perfect for beginners and professionals alike:** Saves you time and effort by automating complex and repetitive setup tasks.  
 - **Trusted developer:** Created and maintained by **Mustafa Alqershi**, dedicated to improving the Flutter developer experience.  
 - **Save time and avoid errors:** Skip complex manual installations and reduce setup mistakes.
 
