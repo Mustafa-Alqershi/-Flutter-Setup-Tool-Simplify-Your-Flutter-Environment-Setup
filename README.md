@@ -1,5 +1,5 @@
 # Flutter Setup Tool
-
+# Flutter Install Tool
 [![Website](https://img.shields.io/badge/Website-flutter--setup.dev-blue)](https://flutter-setup.dev)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
